@@ -39,7 +39,7 @@
     <br>
 </ul>
 
-<h2> Website is published at:   </h2>
+<h2> Website is published at: https://inceptionabhishek.github.io/Animation-Background-using-css-and-javascript/  </h2>
 <table>
   <tr>
     <h3> Rain Effect-1 </h3>
